@@ -1,3 +1,3 @@
-abstract class Action {
+sealed class Action {
 
 }
